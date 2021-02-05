@@ -8,7 +8,7 @@ Dumps an stb file into json format
 Turns a json file into a stb file again.
 
 # Pik2CutsceneCamera.py
-Blender plugin for creating camera cutscenes. It exports a json that can be turned to stb with makestb.
+Blender 2.79 plugin for creating camera cutscenes. It exports a json that can be turned to stb with makestb.
 Three objects are used by this plugin that you need to create, named P2Cutscene_Cam, P2Cutscene_Target and P2Cutscene_Origin.
 They can be any kind of object, e.g. a cube.
 
